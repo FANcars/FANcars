@@ -310,16 +310,7 @@ bool cross_down(double prevA, double prevB, double currA, double currB)
 
 bool get_stochastic_values(string symbol, ENUM_TIMEFRAMES tf, int shift, double &k_value, double &d_value)
 {
-   int handle = iStochastic(symbol, tf, InpKPeriod, InpDPeriod, InpSlowing, InpMaMethod, InpPriceField);
-   if(handle == INVALID_HANDLE)
-   {
-      // Old MQL4 returns indicator value directly; iStochastic does not return a handle here.
-      // Use iStochastic directly with iStochastic(..., MODE_MAIN, shift)
-      k_value = iStochastic(symbol, tf, InpKPeriod, InpDPeriod, InpSlowing, InpMaMethod, InpPriceField, MODE_MAIN, shift);
-      d_value = iStochastic(symbol, tf, InpKPeriod, InpDPeriod, InpSlowing, InpMaMethod, InpPriceField, MODE_SIGNAL, shift);
-      return !(k_value == EMPTY_VALUE || d_value == EMPTY_VALUE);
-   }
-   // If a handle were returned (MT5-style), this path would be different. Keep MT4 path above.
+   // MT4: iStochastic returns the indicator value directly via mode+shift
    k_value = iStochastic(symbol, tf, InpKPeriod, InpDPeriod, InpSlowing, InpMaMethod, InpPriceField, MODE_MAIN, shift);
    d_value = iStochastic(symbol, tf, InpKPeriod, InpDPeriod, InpSlowing, InpMaMethod, InpPriceField, MODE_SIGNAL, shift);
    return !(k_value == EMPTY_VALUE || d_value == EMPTY_VALUE);
