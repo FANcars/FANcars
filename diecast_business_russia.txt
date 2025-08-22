@@ -1,0 +1,244 @@
+Сводный файл: бизнес по продажам масштабных моделей (Россия)
+
+=== suppliers_russia.md ===
+# Поставщики и дистрибьюторы масштабных моделей (Россия)
+
+## Российские и локально доступные источники
+- **Sima‑Land (опт)** — массовые бренды: Maisto, Bburago, Welly, Jada и др.
+  - Сайт: [sima-land.ru](https://www.sima-land.ru/)
+  - Примечание: простая регистрация B2B, широкий складской доступ, хорошие условия по объёму.
+- **Start Scale Models (SSM)** — российская тематика 1:43
+  - Сайт: [SSM](https://yandex.ru/search/?text=Start%20Scale%20Models%20SSM) (официальные страницы/ВК и партнёры)
+  - Примечание: уточнять оптовые условия у производителя/дистрибьютора.
+- **DiP Models** — коллекционные 1:43
+  - Сайт: [DiP Models](https://yandex.ru/search/?text=DiP%20Models%201%3A43)
+  - Примечание: небольшие партии, актуальны лимитированные серии.
+- **Автоистория** — 1:43 отечественная классика
+  - Сайт: [Автоистория](https://yandex.ru/search/?text=%D0%90%D0%B2%D1%82%D0%BE%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%201%3A43)
+  - Примечание: уточнять прайсы/наличие напрямую.
+- **Modimio** — журнальные серии, тематические модели
+  - Сайт: [modimio.ru](https://www.modimio.ru/)
+  - Примечание: партии для розницы/ивентов, ограниченные тиражи.
+- **DeAgostini (Россия)** — журнальные коллекции
+  - Сайт: [deagostini.ru](https://www.deagostini.ru/)
+  - Примечание: возможны B2B‑закупки отдельных выпусков через партнёров.
+
+## Европейские и мировые оптовики (B2B)
+- **CK‑Modelcars (DE)** — широкий ассортимент (Spark, Minichamps, GT Spirit, Norev и др.)
+  - Сайт: [ck-modelcars.de](https://www.ck-modelcars.de)
+  - Примечание: запросить B2B/оптовые условия, поставка в РФ через консолидацию.
+- **Modelissimo (DE)** — крупный оптовик/ритейлер
+  - Сайт: [modelissimo.de](https://www.modelissimo.de)
+- **Little Bolide (FR)** — сильные позиции по смоле 1:18/1:43
+  - Сайт: [littlebolide.com](https://www.littlebolide.com)
+- **Modellcar Zenker (DE)** — немецкий оптовик
+  - Сайт: [modellcar-zenker.de](https://www.modellcar-zenker.de)
+- **Diecast Direct (US)** — американские бренды (GreenLight и др.)
+  - Сайт: [diecastdirect.com](https://www.diecastdirect.com)
+- **HobbyLink Japan (JP)** — японские бренды (Tomica/TLV, Kyosho, Aoshima и др.)
+  - Сайт: [hlj.com](https://www.hlj.com)
+- **AmiAmi (JP)** — японские коллекционные товары
+  - Сайт: [amiami.com](https://www.amiami.com)
+- **Plaza Japan (JP)** — японский ритейл/опт
+  - Сайт: [plazajapan.com](https://www.plazajapan.com)
+
+## Производители/бренды — прямые контакты/дилерство
+- **AUTOart** — премиум 1:18 (металл/композит)
+  - Сайт: [autoartmodels.com](https://www.autoartmodels.com)
+  - Примечание: дилерские запросы через форму контакта/регионального дистрибьютора.
+- **Minichamps** — 1:18/1:43
+  - Сайт: [minichamps.de](https://www.minichamps.de)
+- **Spark Model** — 1:43/1:18 (мотоспорт, лимитки)
+  - Сайт: [sparkmodel.com](https://www.sparkmodel.com)
+- **GT Spirit** — 1:18 смола
+  - Сайт: [gts-models.com](https://www.gts-models.com)
+- **Otto Mobile** — 1:18 смола (европейские иконики)
+  - Сайт: [otto-models.com](https://www.otto-models.com)
+- **Tarmac Works** — 1:64/1:43 (JDM/мотоспорт)
+  - Сайт: [tarmacworks.com](https://www.tarmacworks.com)
+- **Inno Models (INNO64)** — 1:64 (JDM/DTM и др.)
+  - Сайт: [innomodels.com](https://www.innomodels.com)
+- **Mini GT (TSM Model)** — 1:64
+  - Сайты: [minigt.com](https://minigt.com), [tsm-models.com](https://www.tsm-models.com)
+- **Tomica Limited Vintage (TLV, Tomytec)** — 1:64
+  - Сайт: [tomytec.co.jp](https://www.tomytec.co.jp)
+- **Norev** — 1:18/1:43
+  - Сайт: [norev.com](https://www.norev.com)
+- **Solido** — 1:18/1:43
+  - Сайт: [solido.com](https://www.solido.com)
+- **Schuco** — 1:18/1:43/1:64
+  - Сайт: [schuco.de](https://www.schuco.de)
+- **GreenLight** — 1:64/1:43 (US)
+  - Сайт: [greenlightcollectibles.com](https://greenlightcollectibles.com)
+- **Kyosho** — 1:18/1:64
+  - Сайт: [kyosho.com](https://www.kyosho.com)
+- **Ignition Model** — 1:18/1:43 (JDM тюнинг)
+  - Сайт: [ignition-model.com](https://www.ignition-model.com)
+- **Looksmart** — 1:43/1:18 (итальянские марки)
+  - Сайт: [looksmartmodels.com](https://www.looksmartmodels.com)
+- **BBR** — 1:18/1:43 (Ferrari и др.)
+  - Сайт: [bbrmodelstore.com](https://www.bbrmodelstore.com)
+- **CMC** — 1:18 (ультра‑детализация)
+  - Сайт: [cmc-modelcars.de](https://www.cmc-modelcars.de)
+- **Almost Real** — 1:18 (Land Rover, AMG и др.)
+  - Сайт: [almostrealmodels.com](https://www.almostrealmodels.com)
+- **MR Collection** — 1:18/1:43 (суперкары)
+  - Сайт: [mrcollection.com](https://www.mrcollection.com)
+
+## Примечания по закупке/логистике для РФ
+- Параллельный импорт через консолидацию (TR/AE/KZ), платежи в CNY/TRY/AED. Для мелких партий — почтовые/экспресс‑каналы в ЕАЭС.
+- Код ТН ВЭД обычно 9503 (игрушки/модели). Пошлина 0–10% + НДС 20% на таможенную стоимость. Подтверждайте код и ставку с брокером.
+- Запрашивайте: прайс‑листы (EXW/FOB), MOQ, график релизов, правила предзаказов, MAP/RRP‑политику, условия возврата брака.
+
+=== sku_matrix.csv ===
+Brand,Scale,Line,Model,Variant,ItemCode,Source,CostCurrency,Cost,RRPEstRUB,TargetMarginPct,Notes
+Tarmac Works,1:64,Global64,Nissan GT-R R35,NISMO Grey,TW64-001,Little Bolide,USD,12,2490,45,JDM hot seller
+Tarmac Works,1:64,Global64,Toyota Supra,A80 White,TW64-002,Little Bolide,USD,12,2390,45,Iconic 90s
+Tarmac Works,1:64,Global64,Honda NSX,NA1 Red,TW64-003,Little Bolide,USD,12,2390,45,Consistent demand
+Tarmac Works,1:64,Global64,Mitsubishi Lancer Evo,VI Tommi Makinen,TW64-004,Little Bolide,USD,12,2590,45,Motorsport livery
+Tarmac Works,1:64,Global64,Mazda RX-7,FD3S Yellow,TW64-005,Little Bolide,USD,12,2390,45,JDM evergreen
+Tarmac Works,1:64,Global64,Nissan Skyline,BNR34 Blue,TW64-006,Little Bolide,USD,12,2590,45,High demand
+Tarmac Works,1:64,Global64,Nissan Silvia,S13 Teal,TW64-007,Little Bolide,USD,12,2290,45,Drift niche
+Tarmac Works,1:64,Global64,BMW M3,E30 DTM,TW64-008,Little Bolide,USD,12,2490,45,DTM livery
+Tarmac Works,1:64,Global64,Porsche 911,GT3 White,TW64-009,Little Bolide,USD,12,2590,45,911 consistent
+Tarmac Works,1:64,Global64,Mercedes-AMG,GT3 Black,TW64-010,Little Bolide,USD,12,2590,45,GT3 class
+Inno64,1:64,Regular,Honda Civic,EG6 Spoon,IN64-011,Plaza Japan,USD,13,2790,45,Spoon livery
+Inno64,1:64,Regular,Nissan Skyline,ER34 Police,IN64-012,Plaza Japan,USD,13,2790,45,Themed police
+Inno64,1:64,Regular,Mitsubishi Lancer Evo,VII WRC,IN64-013,Plaza Japan,USD,13,2890,45,Rally
+Inno64,1:64,Regular,Toyota Chaser,JZX100 Drift,IN64-014,Plaza Japan,USD,13,2790,45,Drift popular
+Inno64,1:64,Regular,Mazda RX-7,RE Amemiya,IN64-015,Plaza Japan,USD,13,2890,45,Tuned JDM
+Inno64,1:64,Regular,Nissan 180SX,Type X,IN64-016,Plaza Japan,USD,13,2690,45,Niche hit
+Inno64,1:64,Regular,Subaru Impreza,22B Blue,IN64-017,Plaza Japan,USD,13,2890,45,Collector favorite
+Inno64,1:64,Regular,Toyota Supra,A90 GR,IN64-018,Plaza Japan,USD,13,2790,45,Modern JDM
+Inno64,1:64,Regular,Nissan Fairlady Z,S30 Orange,IN64-019,Plaza Japan,USD,13,2690,45,Classic
+Inno64,1:64,Regular,Honda S2000,AP1 Yellow,IN64-020,Plaza Japan,USD,13,2690,45,Convertible niche
+Mini GT,1:64,Mini GT,Nissan GT-R R35,LBWK Blue,MG64-021,CK-Modelcars,USD,11,2290,45,LBWK collab
+Mini GT,1:64,Mini GT,Toyota Supra,A90 Matte,MG64-022,CK-Modelcars,USD,11,2290,45,High turnover
+Mini GT,1:64,Mini GT,Chevrolet Corvette,C8 Red,MG64-023,CK-Modelcars,USD,11,2190,45,US muscle
+Mini GT,1:64,Mini GT,Porsche 911,GT3 Touring,MG64-024,CK-Modelcars,USD,11,2390,45,911 strong
+Mini GT,1:64,Mini GT,Lamborghini Huracan,EVO Green,MG64-025,CK-Modelcars,USD,11,2390,45,Exotics
+Mini GT,1:64,Mini GT,Toyota Land Cruiser,LC300,MG64-026,CK-Modelcars,USD,11,2390,45,Trendy SUV
+Mini GT,1:64,Mini GT,Mercedes G-Class,G63 Black,MG64-027,CK-Modelcars,USD,11,2390,45,Popular luxury
+Mini GT,1:64,Mini GT,Honda Civic,Type R FL5,MG64-028,CK-Modelcars,USD,11,2290,45,Hot hatch
+Mini GT,1:64,Mini GT,Nissan Silvia,S15,MG64-029,CK-Modelcars,USD,11,2290,45,Drift icon
+Mini GT,1:64,Mini GT,Toyota AE86,Trueno Panda,MG64-030,CK-Modelcars,USD,11,2290,45,Anime cult
+TLV,1:64,TLV,Nissan Skyline,2000GT-R KPGC10,TLV-031,HLJ,JPY,2800,3490,40,High-end 1:64
+TLV,1:64,TLV,Toyota Crown,Hardtop,TLV-032,HLJ,JPY,2600,3290,40,Classic sedan
+TLV,1:64,TLV,Mazda Savanna,RX-3,TLV-033,HLJ,JPY,2700,3390,40,Retro demand
+TLV,1:64,TLV,Datsun 510,Bluebird,TLV-034,HLJ,JPY,2600,3290,40,Evergreen
+TLV,1:64,TLV,Toyota Celica,2000GT,TLV-035,HLJ,JPY,2700,3390,40,Collectors
+Spark,1:43,Race,Porsche 911 RSR,LM24 #92,SP43-036,Little Bolide,EUR,32,10990,45,Endurance race
+Spark,1:43,Race,Aston Martin Vantage GTE,LM24,SP43-037,Little Bolide,EUR,32,10990,45,Le Mans
+Spark,1:43,Race,Toyota GR010,Hypercar,SP43-038,Little Bolide,EUR,35,11990,45,Top tier
+Spark,1:43,Race,Oreca 07,LMP2,SP43-039,Little Bolide,EUR,32,9990,45,Prototype niche
+Spark,1:43,Road,Porsche 911,964 RS,SP43-040,Little Bolide,EUR,30,9990,45,Classic 911
+Norev,1:43,Road,Mercedes-Benz,190E Evo II,NR43-041,CK-Modelcars,EUR,20,6990,45,Youngtimer
+Norev,1:43,Road,BMW,E30 M3,NR43-042,CK-Modelcars,EUR,20,6990,45,Iconic
+Norev,1:43,Road,Peugeot,205 GTI,NR43-043,CK-Modelcars,EUR,18,6490,45,Hot hatch cult
+Norev,1:43,Road,Audi,Quattro,NR43-044,CK-Modelcars,EUR,20,6990,45,Group B icon
+Norev,1:43,Road,Renault,5 Turbo,NR43-045,CK-Modelcars,EUR,18,6490,45,Classic
+SSM,1:43,Road,GAZ,24 Volga Black,SSM-046,Manufacturer,RUB,3500,8990,45,Russian classic
+SSM,1:43,Road,VAZ,2101 Red,SSM-047,Manufacturer,RUB,3200,7990,45,High local demand
+DiP Models,1:43,Road,GAZ,M21 Volga,DiP-048,Manufacturer,RUB,4200,9990,45,Premium detailing
+Автоистория,1:43,Road,AZLK,2140,AI-049,Manufacturer,RUB,3000,7490,45,Local nostalgia
+Автоистория,1:43,Utility,PAZ,Bus,AI-050,Manufacturer,RUB,4500,10990,45,Utility niche
+GreenLight,1:43,Movie,Ford Mustang,Bullitt,GL43-051,Diecast Direct,USD,25,7990,45,Movie car
+GreenLight,1:43,Police,Chevrolet Caprice,Police,GL43-052,Diecast Direct,USD,24,7490,45,US police
+Schuco,1:43,Pro,Road,911 F,SC43-053,Modelissimo,EUR,28,8990,45,German quality
+Schuco,1:43,Pro,Road,BMW 2002,SC43-054,Modelissimo,EUR,26,8490,45,Youngtimer
+Spark,1:43,Race,Audi R8 LMS,GT3,SP43-055,Little Bolide,EUR,32,10990,45,GT3
+Spark,1:43,Race,Ferrari 488 GTE,LM,SP43-056,Little Bolide,EUR,35,11990,45,Le Mans Ferrari
+Spark,1:43,Race,Porsche 919 Hybrid,LM,SP43-057,Little Bolide,EUR,34,11490,45,Hybrid icon
+Norev,1:43,Road,Mercedes,SL R129,NR43-058,CK-Modelcars,EUR,20,6990,45,Classic SL
+Norev,1:43,Road,BMW,E34 M5,NR43-059,CK-Modelcars,EUR,20,6990,45,90s hit
+Norev,1:43,Road,Renault,Clio Williams,NR43-060,CK-Modelcars,EUR,18,6490,45,Hot hatch
+Solido,1:18,Road,BMW,E30 M3,SO18-061,Modelissimo,EUR,45,13990,45,Best value 1:18
+Solido,1:18,Road,Toyota Supra,A80,SO18-062,Modelissimo,EUR,45,13990,45,High turnover
+Solido,1:18,Road,Nissan Skyline,R34,SO18-063,Modelissimo,EUR,48,14990,45,JDM puller
+Solido,1:18,Road,Porsche 911,964,SO18-064,Modelissimo,EUR,50,15990,45,911 safe bet
+GT Spirit,1:18,Resin,Toyota Supra,A80 JZA80,GTS18-065,Little Bolide,EUR,65,19990,50,Resin premium
+GT Spirit,1:18,Resin,Porsche 911,964 Turbo,GTS18-066,Little Bolide,EUR,70,20990,50,Strong
+GT Spirit,1:18,Resin,Nissan GT-R,R35,GTS18-067,Little Bolide,EUR,70,20990,50,Popular
+GT Spirit,1:18,Resin,BMW,M3 E46,GTS18-068,Little Bolide,EUR,68,19990,50,Youngtimer
+GT Spirit,1:18,Resin,Mercedes,190E Evo II,GTS18-069,Little Bolide,EUR,70,20990,50,DTM icon
+GT Spirit,1:18,Resin,Toyota GR Yaris,White,GTS18-070,Little Bolide,EUR,62,18990,50,Trending
+Otto Mobile,1:18,Resin,Renault,Clio V6,OT18-071,Little Bolide,EUR,60,18990,50,French cult
+Otto Mobile,1:18,Resin,Peugeot,205 T16,OT18-072,Little Bolide,EUR,62,19990,50,Group B
+Otto Mobile,1:18,Resin,Audi,RS2 Avant,OT18-073,Little Bolide,EUR,62,19990,50,Wagon cult
+Otto Mobile,1:18,Resin,BMW,E36 M3,OT18-074,Little Bolide,EUR,60,18990,50,Consistent
+AUTOart,1:18,Composite,Toyota Supra,A80 Yellow,AA18-075,Manufacturer,EUR,140,34990,50,Premium
+AUTOart,1:18,Composite,Nissan GT-R,R35 NISMO,AA18-076,Manufacturer,EUR,160,39990,50,High RRP
+AUTOart,1:18,Composite,Lamborghini,Aventador SVJ,AA18-077,Manufacturer,EUR,170,44990,50,Top tier
+AUTOart,1:18,Composite,Porsche 911,991 GT3,AA18-078,Manufacturer,EUR,150,37990,50,Strong demand
+AUTOart,1:18,Composite,Toyota GR Supra,A90,AA18-079,Manufacturer,EUR,135,33990,50,Modern
+AUTOart,1:18,Composite,Mercedes-AMG,GT R,AA18-080,Manufacturer,EUR,155,38990,50,Premium
+AUTOart,1:18,Composite,Lexus,LFA,AA18-081,Manufacturer,EUR,200,49990,50,Grail
+AUTOart,1:18,Composite,Nissan,Silvia S15,AA18-082,Manufacturer,EUR,140,34990,50,JDM premium
+Spark,1:18,Race,Porsche 911 RSR,LM,SP18-083,Little Bolide,EUR,120,32990,50,Le Mans
+Spark,1:18,Race,Toyota TS050,LM,SP18-084,Little Bolide,EUR,125,33990,50,Endurance
+Spark,1:18,Race,Audi R8 LMS,GT3,SP18-085,Little Bolide,EUR,115,31990,50,GT3
+Norev,1:18,Road,Mercedes,190E Evo II,NR18-086,CK-Modelcars,EUR,70,19990,45,Youngtimer
+Norev,1:18,Road,BMW,E30 M3,NR18-087,CK-Modelcars,EUR,68,18990,45,Classic
+Norev,1:18,Road,Peugeot,205 GTI,NR18-088,CK-Modelcars,EUR,60,17990,45,Hot hatch
+Schuco,1:18,Pro,Porsche,356,SC18-089,Modelissimo,EUR,85,22990,45,Classic Porsche
+Schuco,1:18,Pro,BMW,507,SC18-090,Modelissimo,EUR,90,23990,45,Collector
+GreenLight,1:64,Hollywood,Volkswagen Jetta,Fast & Furious,GL64-091,Diecast Direct,USD,7,1690,45,Movie tie-in
+GreenLight,1:64,Hollywood,Dodge Charger,Fast & Furious,GL64-092,Diecast Direct,USD,7,1690,45,Movie tie-in
+GreenLight,1:64,Hitch & Tow,Chevrolet Silverado,Trailer,GL64-093,Diecast Direct,USD,10,1990,45,Play value
+GreenLight,1:64,Blue Collar,Chevrolet C10,Pickup,GL64-094,Diecast Direct,USD,7,1590,45,US classic
+GreenLight,1:64,GL Muscle,Ford Mustang,GT,GL64-095,Diecast Direct,USD,7,1590,45,Muscle
+Tomica Limited Vintage,1:64,TLV,Nissan Skyline,HT 2000,TLV-096,HLJ,JPY,2700,3390,40,High detail
+Tomica Limited Vintage,1:64,TLV,Toyota Corolla,Levin AE86,TLV-097,HLJ,JPY,2700,3490,40,AE86 cult
+Inno64,1:64,Regular,Nissan Silvia,S15 Var2,IN64-098,Plaza Japan,USD,13,2790,45,Alt color
+Tarmac Works,1:64,Global64,Porsche 935,Kremer,TW64-099,Little Bolide,USD,12,2590,45,Historic
+Mini GT,1:64,Mini GT,Toyota Land Cruiser,70 Series,MG64-100,CK-Modelcars,USD,11,2390,45,Off-road trend
+
+=== import_estimate_moscow.md ===
+# Импортная смета: тестовая партия для Москвы (оценка)
+
+Это ориентировочная оценка для базового микса 100 моделей. Точные цифры зависят от условий поставщика, логистики и курса валют.
+
+## Допущения
+- Состав партии: 50× 1:64, 30× 1:43, 20× 1:18
+- Средняя закупочная цена:
+  - 1:64 — 12 USD/шт (Mini GT/Tarmac/INNO)
+  - 1:43 — 40 EUR/шт (Norev/Spark/российские бренды)
+  - 1:18 — 90 EUR/шт (Solido/GT Spirit/Otto)
+- Валюты (оценка): 1 USD = 95 RUB, 1 EUR = 105 RUB
+- Логистика/страхование: 120 000 RUB (консолидация Европа/Азия → РФ)
+- Таможенная пошлина: 5% (ориентир по коду 9503)
+- НДС: 20% (на базу: таможенная стоимость + пошлина)
+- Брокер/терминальные: 25 000 RUB
+
+## Расчёт стоимости
+- Товарная стоимость:
+  - 1:64: 50 × 12 USD = 600 USD → 57 000 RUB
+  - 1:43: 30 × 40 EUR = 1 200 EUR → 126 000 RUB
+  - 1:18: 20 × 90 EUR = 1 800 EUR → 189 000 RUB
+  - Итого товар: ≈ 372 000 RUB
+- CIF (товар + логистика): 372 000 + 120 000 = 492 000 RUB
+- Пошлина 5%: 24 600 RUB
+- База для НДС: 492 000 + 24 600 = 516 600 RUB
+- НДС 20%: 103 320 RUB
+- Брокер/прочее: 25 000 RUB
+- Итого приземление: 492 000 + 24 600 + 103 320 + 25 000 = **644 920 RUB**
+
+## Средняя себестоимость по сегментам (оценка)
+- Доля логистики распределена пропорционально стоимости товара.
+- Итоговые ориентиры (за единицу):
+  - 1:64 — ~1 300–1 500 RUB
+  - 1:43 — ~5 500–6 500 RUB
+  - 1:18 — ~11 000–13 500 RUB
+
+## Ценовые ориентиры RRP в РФ
+- 1:64 коллекционные: 1 990–3 490 RUB
+- 1:43: 6 990–12 990 RUB (Spark/Norev/российские бренды)
+- 1:18:
+  - Solido/Norev: 10 990–15 990 RUB
+  - GT Spirit/Otto: 16 990–22 990 RUB
+  - AUTOart: 29 990–49 990 RUB
+
+## Замечания
+- Пошлина по 9503 может варьироваться (0–10%): пересчитать при подтверждённой ставке.
+- При росте объёма партии логистика/шт. снижается, маржа растёт.
+- Для премиума используйте предзаказы (аванс 10–20%) для снижения складских рисков.
