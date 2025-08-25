@@ -37,7 +37,7 @@
 
   async function loadProducts() {
     if (state.productsLoaded) return state.products;
-    const response = await fetch('/data/products.json', { cache: 'no-store' });
+    const response = await fetch('data/products.json', { cache: 'no-store' });
     const data = await response.json();
     state.products = data;
     state.productsLoaded = true;
@@ -121,7 +121,7 @@
     const wished = wish.has(String(product.id));
     return `
       <article class="card" data-id="${product.id}">
-        <a class="media" href="/product.html?id=${encodeURIComponent(product.id)}" aria-label="${product.name}">
+        <a class="media" href="product.html?id=${encodeURIComponent(product.id)}" aria-label="${product.name}">
           <img src="${product.images[0]}" alt="${product.name}">
         </a>
         <div class="body">
@@ -389,7 +389,7 @@
         tr.innerHTML = `
           <td style="display:flex; gap:10px; align-items:center;">
             <img src="${product.images[0]}" alt="${product.name}" style="width:64px; height:48px; object-fit:cover; border-radius:8px; border:1px solid var(--border);">
-            <a href="/product.html?id=${product.id}">${product.name}</a>
+            <a href="product.html?id=${product.id}">${product.name}</a>
           </td>
           <td>${formatPrice(product.price, product.currency)}</td>
           <td>
@@ -454,7 +454,7 @@
       // Fake submit
       setLocalStorageJson(STORAGE_KEYS.cart, []);
       updateHeaderCounters();
-      location.href = '/checkout.html#success';
+      location.href = 'checkout.html#success';
     });
   }
 
@@ -466,7 +466,7 @@
       form.addEventListener('submit', (e) => {
         e.preventDefault();
         const q = (searchQuick.value || '').trim();
-        location.href = '/catalog.html?q=' + encodeURIComponent(q);
+        location.href = 'catalog.html?q=' + encodeURIComponent(q);
       });
     }
   }
