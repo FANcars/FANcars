@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Оформление заказа — ModelCars</title>
+  <meta name="description" content="Оформление заказа: контактные данные и адрес доставки.">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="checkout">
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand"><div class="brand-logo">MC</div><div class="brand-name">ModelCars</div></a>
+      <nav class="nav">
+        <a href="catalog.html">Каталог</a>
+        <a href="wishlist.html">Желаемое</a>
+        <a href="cart.html">Корзина</a>
+      </nav>
+      <div class="actions">
+        <a class="icon-btn" href="wishlist.html">♥ <span class="count" data-wishlist-count style="display:none">0</span></a>
+        <a class="icon-btn" href="cart.html">🛒 <span class="count" data-cart-count style="display:none">0</span></a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container section">
+    <h1>Оформление заказа</h1>
+    <div id="checkout-empty" class="banner" style="display:none;">Корзина пуста. Добавьте товары перед оформлением.</div>
+    <form id="checkout-form" class="form" novalidate>
+      <div class="row">
+        <label>Имя и фамилия
+          <input name="name" required placeholder="Иван Иванов">
+          <span class="hint">Укажите получателя</span>
+        </label>
+        <label>Телефон
+          <input name="phone" type="tel" required placeholder="+7 999 000-00-00">
+        </label>
+      </div>
+      <div class="row">
+        <label>Email
+          <input name="email" type="email" required placeholder="you@example.com">
+        </label>
+        <label>Город
+          <input name="city" required placeholder="Москва">
+        </label>
+      </div>
+      <label>Адрес доставки
+        <input name="address" required placeholder="Улица, дом, квартира">
+      </label>
+      <div class="cta-row">
+        <button class="btn btn-primary" type="submit">Подтвердить заказ</button>
+        <a class="btn" href="cart.html">Назад в корзину</a>
+      </div>
+    </form>
+
+    <div id="success" class="banner" style="display:none; margin-top:16px;">Спасибо! Заказ успешно оформлен.</div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-bottom">© <span id="year"></span> ModelCars</div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+    if (location.hash === '#success') {
+      document.getElementById('success').style.display = 'block';
+      history.replaceState(null, '', location.pathname);
+    }
+  </script>
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>
